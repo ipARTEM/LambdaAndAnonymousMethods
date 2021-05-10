@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAndAnonymousMethods", "LambdaAndAnonymousMethods\LambdaAndAnonymousMethods.csproj", "{D0804AC5-C639-4BD7-B2BC-3597A13B7B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAndAnonymousMethods2LambdaExpression", "LambdaAndAnonymousMethods2LambdaExpression\LambdaAndAnonymousMethods2LambdaExpression.csproj", "{7D9CC13E-FAAA-46F1-8B9C-6C819841A7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAndAnonymousMethods3ManyExpressions", "LambdaAndAnonymousMethods3ManyExpressions\LambdaAndAnonymousMethods3ManyExpressions.csproj", "{520C3860-6C09-459F-BD5B-045F4D357C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAndAnonymousMethods4ManyParams", "LambdaAndAnonymousMethods4ManyParams\LambdaAndAnonymousMethods4ManyParams.csproj", "{13490720-8E1B-4F96-8679-CE2EB5876EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAndAnonymousMethods5LambdaExpressions", "LambdaAndAnonymousMethods5LambdaExpressions\LambdaAndAnonymousMethods5LambdaExpressions.csproj", "{A649DBBF-0A6E-495F-B1A9-B47A9BF75464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0804AC5-C639-4BD7-B2BC-3597A13B7B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0804AC5-C639-4BD7-B2BC-3597A13B7B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0804AC5-C639-4BD7-B2BC-3597A13B7B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0804AC5-C639-4BD7-B2BC-3597A13B7B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9CC13E-FAAA-46F1-8B9C-6C819841A7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9CC13E-FAAA-46F1-8B9C-6C819841A7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9CC13E-FAAA-46F1-8B9C-6C819841A7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9CC13E-FAAA-46F1-8B9C-6C819841A7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520C3860-6C09-459F-BD5B-045F4D357C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520C3860-6C09-459F-BD5B-045F4D357C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520C3860-6C09-459F-BD5B-045F4D357C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520C3860-6C09-459F-BD5B-045F4D357C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13490720-8E1B-4F96-8679-CE2EB5876EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13490720-8E1B-4F96-8679-CE2EB5876EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13490720-8E1B-4F96-8679-CE2EB5876EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13490720-8E1B-4F96-8679-CE2EB5876EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A649DBBF-0A6E-495F-B1A9-B47A9BF75464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A649DBBF-0A6E-495F-B1A9-B47A9BF75464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A649DBBF-0A6E-495F-B1A9-B47A9BF75464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A649DBBF-0A6E-495F-B1A9-B47A9BF75464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E7198F-EC12-450F-BBE2-78F77AA517CA}
+	EndGlobalSection
+EndGlobal
